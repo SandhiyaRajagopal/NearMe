@@ -186,8 +186,7 @@ theatre.html
 ```
 
 ## OUTPUT
-
-![Alt text](map.png.png)
+![Alt text](Map.png)
 ![Alt text](Home.png)
 ![Alt text](<Bus Depot.png>)
 ![Alt text](Aasife.png)
